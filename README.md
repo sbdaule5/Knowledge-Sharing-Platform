@@ -9,7 +9,7 @@ Django, ReactJS, AWS-S3
 |--------|---------------|
 
 ## Other details 📑
-This project is in its secomd iteration. We might have NodeJS as backend. In future, might do clustering of students on the basis of the course taken.
+This project is in its second iteration. We might have NodeJS as backend. In future, might do clustering of students on the basis of the course taken.
 
 ## Contribution Guidelines ✨
 Please go through the Wiki. The success of our vision to bring knowledge to every single hand depends on you. Even a small contribution helps. All forms of contributions are highly welcomed and valued.
@@ -29,6 +29,8 @@ Please go through the Wiki. The success of our vision to bring knowledge to ever
 
 ### Install the dependencies for backend
 `pip install django djangorestframework django-cors-headers`
+
+#### Install PostgreSQL
 
 ### Install the requirements
 `pip install -r requirements.txt`
